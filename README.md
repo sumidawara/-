@@ -1,4 +1,5 @@
 # marubatu_game
 ただのまるばつゲーム
 
-あ
+下のリンクから遊べます。
+http://speedwagon.boo.jp/wp-content/uploads/html/program/marubatu_game/
