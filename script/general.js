@@ -56,3 +56,4 @@ class Vector2
 }
 
 //hoge
+//fuga
